@@ -14,3 +14,5 @@ Finally, I used linear regression from scikit-learn to find if there's actually 
 Thankfully, the audience seems less sexist than the movies themselves, as I've found there's basically no correlation between the two.
 
 Seems like people do watch Bond movies for... well... Bond.
+
+The Data Analysis and Cleansing files are mostly uncommented since I just did the excercises from the website, and there's a much neater (and probably more optimized) solution that can be found there. The Data Scraping code is commented, however, since i was mostly on my own for that part, and I wanted to keep everything organized.
